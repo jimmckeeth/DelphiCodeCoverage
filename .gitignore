@@ -11,3 +11,4 @@ build/*/*/*.*
 dunit.ini
 *.tvsconfig
 *.dsk
+*.delphilsp.json
